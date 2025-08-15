@@ -30,7 +30,7 @@ const Todo = () => {
 
     return (
         <div className='w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat' style={{backgroundImage: `url(https://images.pexels.com/photos/669986/pexels-photo-669986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)`}}>
-            <div className="max-w-4xl mx-auto mb-auto sm:mt-8 p-4 border-2 border-blue-500 backdrop-blur-sm bg-white/70 rounded-lg">
+            <div className="max-w-4xl mx-auto m-auto sm:mt-8 p-4 border-2 border-blue-500 backdrop-blur-sm bg-white/70 rounded-lg">
             <h2 className="mt-3 mb-6 text-2xl font-bold text-center text-black uppercase">
                 Personal TODO App
             </h2>
